@@ -77,5 +77,4 @@ Similarly to audio, video is compressed with `ffmpeg`, then saved to `src/assets
 The code for Project Flowerbed is licenced under the **MIT Licence**, as found in the LICENSE file.
 
 Assets (in the `content` folder, as well as built versions in the `src/assets` folder) have their own licenses.
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
