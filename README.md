@@ -78,3 +78,4 @@ The code for Project Flowerbed is licenced under the **MIT Licence**, as found i
 
 Assets (in the `content` folder, as well as built versions in the `src/assets` folder) have their own licenses.
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
